@@ -1,7 +1,7 @@
 # Hi there, I'm Patryk - aka[FFad3]
 
 ## I'm a Student, currently looking for a job!
-- 🔭 I'm currently working on a ASP.NET RAZOR application [website]!
+- 🔭 I'm currently working on a REST api [website]!
 - 🌱 I’m currently learning RAZOR PAGES
 - 🥅 2021 Goals: Finde a job
 - 🏫 I'm interested in prgorgraming and terraristic
@@ -18,5 +18,5 @@
  ### My [CV]
  
 
-[website]: https://github.com/FFad3/OdeToFood
+[website]: https://github.com/FFad3/MyPostsPortal
 [CV]: https://github.com/FFad3/FFad3/blob/master/CV_Patryk_Gneba.pdf
