@@ -13,7 +13,8 @@
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/MySql.png"></code>
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/EF.png"></code>
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/Swagger.png"></code>
+ ### My [CV]
  
 
 [website]: https://github.com/FFad3/OdeToFood
-[email]: gnebapatryk@gmail.com
+[CV]: https://github.com/FFad3/FFad3/blob/master/CV_Patryk_Gneba.pdf
