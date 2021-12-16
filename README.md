@@ -13,6 +13,8 @@
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/MySql.png"></code>
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/EF.png"></code>
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/Swagger.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/AutoMapper.jpg"></code>
+ 
  ### My [CV]
  
 
