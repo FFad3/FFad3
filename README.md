@@ -1,11 +1,11 @@
 ### Hi there, I'm Patryk - aka[FFad3]
 
-## I'm a Studend, Currently looking for a job!
--🔭 I'm currently working on a ASP.NET RAZOR application [website]!
--🌱 I’m currently learning RAZOR PAGES
--🥅 2021 Goals: Finde a job
--🏫 I'm interested in prgorgraming and terraristic
--⚡ Contacy with me [email]
+## I'm a Student, currently looking for a job!
+- 🔭 I'm currently working on a ASP.NET RAZOR application [website]!
+- 🌱 I’m currently learning RAZOR PAGES
+- 🥅 2021 Goals: Finde a job
+- 🏫 I'm interested in prgorgraming and terraristic
+- ⚡ Contacy with me [email]
 
 
 
