@@ -7,10 +7,13 @@
 - 🏫 I'm interested in prgorgraming and terraristic
 - ⚡ Contacy with me gnebapatryk@gmail.com
 ### Languages and Tools:
-- <code><img height="20" src="https://github.com/FFad3/FFad3/blob/master/NET.png"></code>
-- <code><img height="20" src=""></code>
-- <code><img height="20" src=""></code>
-- <code><img height="20" src=""></code>
+<code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/VS.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/C%23.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/NET.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/MySql.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/EF.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/Swagger.png"></code>
+ 
 
 [website]: https://github.com/FFad3/OdeToFood
 [email]: gnebapatryk@gmail.com
