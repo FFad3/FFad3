@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning RAZOR PAGES
 - 🥅 2021 Goals: Finde a job
 - 🏫 I'm interested in prgorgraming and terraristic
-- ⚡ Contacy with me [email]
+- ⚡ Contacy with me gnebapatryk@gmail.com
 
 
 
