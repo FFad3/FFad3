@@ -1,4 +1,6 @@
-﻿### Hi there, I'm Patryk - aka[FFad3]
+### Hi there, I'm Patryk - aka[FFad3]
+
+##I'm a Studend, Currently looking for a job!
 -🔭 I'm currently working on a ASP.NET RAZOR application [website]!
 -🌱 I’m currently learning RAZOR PAGES
 -🥅 2021 Goals: Finde a job
