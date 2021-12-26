@@ -14,7 +14,10 @@
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/EF.png"></code>
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/Swagger.png"></code>
  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/AutoMapper.jpg"></code>
- 
+ ### Currentyl learning:
+  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/html.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/css.png"></code>
+ <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/javaScript.png"></code>
  ### My [CV]
  
 
