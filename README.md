@@ -2,8 +2,7 @@
 
 ## I'm a Student, currently looking for a job!
 - 🔭 I'm currently working on a REST api [website]!
-- 🌱 I’m currently learning RAZOR PAGES
-- 🥅 2021 Goals: Finde a job
+- 🥅 2022 Goals: Finde a job
 - 🏫 I'm interested in prgorgraming and terraristic
 - ⚡ Contact with me gnebapatryk@gmail.com
 ### Languages and Tools:
