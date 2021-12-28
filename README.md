@@ -1,27 +1,4 @@
-# Hi there, I'm Patryk - aka[FFad3]
 
-## I'm a Student, currently looking for a job!
-- 🔭 I'm currently working on a REST api [website]!
-- 🥅 2022 Goals: Finde a job
-- 🏫 I'm interested in prgorgraming and terraristic
-- ⚡ Contact with me gnebapatryk@gmail.com
-### Languages and Tools:
-<code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/VS.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/C%23.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/NET.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/MySql.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/EF.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/Swagger.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/AutoMapper.jpg"></code>
- ### Currently learning:
-  <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/html.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/css.png"></code>
- <code><img height="30" src="https://github.com/FFad3/FFad3/blob/master/javaScript.png"></code>
- ### My [CV]
- 
-
-[website]: https://github.com/FFad3/MyPostsPortal
-[CV]: https://github.com/FFad3/FFad3/blob/master/CV_Patryk_Gneba.pdf
 <h1 align="center">Hi 👋, I'm Patryk - aka[FFad3]</h1>
 <h3 align="center">I'm a Student, currently looking for a job!</h3>
 
@@ -57,3 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffad3&show_icons=true&locale=en&layout=compact" alt="ffad3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffad3&show_icons=true&locale=en" alt="ffad3" /></p>
+ ### My [CV]
+ 
+
+[CV]: https://github.com/FFad3/FFad3/blob/master/CV_Patryk_Gneba.pdf
