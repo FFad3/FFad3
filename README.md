@@ -1,16 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Patryk - aka[FFad3]</h1>
-<h3 align="center">I'm a Student, currently looking for a job!</h3>
-
-- 🔭 I’m currently working on **WebSiteProject**
-
-- 🌱 I’m currently learning **Html,Css,Js**
+<h1 align="center">Hi 👋, I'm Patryk!</h1>
+<h3 align="center">I'm currently pursuing technology as an Application Developer, whereas sharpening my coding skills as well as consistently learning new programming languages, frameworks. So far I have C#, .NET, ASP.NET MVC, MySQL, SQL, Entity Framework, JavaScript, jQuery, XML, XSLT, JSON, REST, Git, HTML. Never settle.</h3>
 
 - 📫 How to reach me **gnebapatryk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/patryk-gneba-4a1661227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-gneba-4a1661227/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/patryk-gneba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-gneba-4a1661227/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
