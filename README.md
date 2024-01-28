@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Patryk!</h1>
-<h3 align="center">I'm currently pursuing technology as an Application Developer, whereas sharpening my coding skills as well as consistently learning new programming languages, frameworks. So far I have C#, .NET, ASP.NET MVC, MySQL, SQL, Entity Framework, JavaScript, jQuery, XML, XSLT, JSON, REST, Git, HTML. Never settle.</h3>
+
+I'm currently pursuing technology as an Application Developer, whereas sharpening my coding skills as well as consistently learning new programming languages, frameworks. So far I have C#, .NET, ASP.NET MVC, MySQL, SQL, Entity Framework, JavaScript, jQuery, XML, XSLT, JSON, REST, Git, HTML. Never settle.
 
 - 📫 How to reach me **gnebapatryk@gmail.com**
 
